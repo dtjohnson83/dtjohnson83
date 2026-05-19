@@ -13,6 +13,7 @@ I work at the intersection of customer discovery, data strategy, agentic tooling
 
 ## Featured Work
 
+- [forward-deployed-ai-portfolio](https://github.com/dtjohnson83/forward-deployed-ai-portfolio) - Implementation portfolio for AI/FDE roles with discovery playbooks, reference architecture, eval strategy, audit logging, and go-live templates.
 - [agent-audit-trail](https://github.com/dtjohnson83/agent-audit-trail) - Compliance infrastructure for agentic AI with immutable audit logging, policy enforcement, and MCP reporting.
 - [plugin-lint](https://github.com/dtjohnson83/plugin-lint) - TypeScript tooling for validating agent plugin folders and catching packaging mistakes early.
 - [osha-mcp](https://github.com/dtjohnson83/osha-mcp) - MCP server for OSHA compliance and safety reference workflows.
